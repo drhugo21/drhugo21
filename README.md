@@ -1,8 +1,4 @@
-## Olá, eu sou o Hugo.
-
-- Formado em Técnico em Informática;
-- Estudando Engenharia de Computação;
-- Trabalho como assistente analista de dados;
+## Olá, eu sou o Hugo. Trabalho como Engenheiro dados.
 
 <div align="center">
   <a href="https://github.com/drhugo21">
